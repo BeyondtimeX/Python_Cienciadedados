@@ -494,10 +494,9 @@ A entrada consiste de uma única linha que contém dois inteiros H e P (1 ≤ H,
 
 Seu programa deve produzir uma única linha com um número racional representando o número médio de cachorros-quentes consumidos pelos participantes. O resultado deve ser escrito como um número racional com exatamente dois dígitos após o ponto decimal, arredondado se necessário.
 
-![image](https://user-images.githubusercontent.com/88558377/190174542-eeaa11e4-7002-45dd-861c-fb4e1421ac49.png)
-
-
 **Solução**
+
+![image](https://user-images.githubusercontent.com/88558377/190174542-eeaa11e4-7002-45dd-861c-fb4e1421ac49.png)
 
 ---------------------------------------
 ##### Desafio
@@ -511,6 +510,8 @@ O arquivo de entrada contém dois inteiros. O primeiro é o tempo gasto na viage
 **Saída**
 
 Imprima a quantidade de litros necessária para realizar a viagem, com três dígitos após o ponto decimal
+
+**Solução**
 
 ![image](https://user-images.githubusercontent.com/88558377/190174882-b3582a76-0881-4726-bc9e-e51fd27f586c.png)
 
