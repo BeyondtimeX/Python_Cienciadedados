@@ -306,6 +306,7 @@ op_comparacao + op_logico + op_comparacao… N …
 
 ![image](https://user-images.githubusercontent.com/88558377/190142758-f00ce4aa-345b-4c31-80d6-6103126510fc.png)
 
+---------------------------------------
  ###### Operadores de Associação
 
 **O que são?**
@@ -314,8 +315,67 @@ op_comparacao + op_logico + op_comparacao… N …
 
 ![image](https://user-images.githubusercontent.com/88558377/190143228-46775925-3c7d-4446-9597-743ef7c3bacf.png)
 
+---------------------------------------
+###### O papel da indentação
+
+**A estética**
+
+* Identar código é uma forma de manter o código fonte mais legível e manutenível. Mas em Python ela exerce um segundo papel, através da indentação o interpretador consegue determinar onde um bloco de comando inicia e onde ele termina.
 
 
+**Bloco de comando**
+
+* As linguagens de programação costumam utilizar caracteres ou palavras reservadas para terminar o início e fim do bloco. Em Java e C por exemplo, utilizamos chaves:
+
+**Bloco em Java**
+
+![image](https://user-images.githubusercontent.com/88558377/190156615-e7982ad0-a278-4349-a2d1-80701b438002.png)
+
+**Bloco em Java sem formatar**
+
+![image](https://user-images.githubusercontent.com/88558377/190156712-2e62c7cc-31cc-4859-aa4a-c9d2b4d264d2.png)
+
+**Utilizando espaços**
+
+* Existe uma convenção em Python, que define as boas práticas para escrita de código na linguagem. Nesse documento é indicado utilizar 4 espaços em branco por nível de indentação, ou seja, a cada novo bloco adicionamos 4 novos espaços em branco.
+
+![1](https://user-images.githubusercontent.com/88558377/190156835-f827ade8-d3ef-4950-bbdf-c407076c82bf.PNG)
+
+
+**Isso não funciona em Python!**
+
+![image](https://user-images.githubusercontent.com/88558377/190157234-520d8925-d67c-4050-807f-97eab7a701d7.png)
+
+
+**Qual versão é mais fácil de ler?**
+
+![image](https://user-images.githubusercontent.com/88558377/190157824-a2a2821d-be5f-48fd-a37b-24279c315c7f.png)
+
+---------------------------------------
+##### Estruturas condicionais
+
+**O que são?**
+
+* A estrutura condicional permite o desvio de fluxo de controle, quando determinadas expressões lógicas são atendidas!
+
+**If**
+
+* Para criar uma estrutura condicional simples, composta por um único desvio, podemos utilizar a palavra reservada if. O comando irá testar a expressão lógica, e em caso de retorno verdadeiro as ações presentes no bloco de código do if serão executadas.
+
+![image](https://user-images.githubusercontent.com/88558377/190159393-32553be7-e4d2-4243-a0ab-3af615892b45.png)
+
+
+**If/else**
+
+* Para criar uma estrutura condicional com dois desvios, podemos utilizar as palavras reservadas if e else. Como sabemos se a expressão lógica testada no if for verdadeira, então o bloco de código do if será executado. Caso contrário o bloco de código do else será executado.
+
+![image](https://user-images.githubusercontent.com/88558377/190159901-57593445-b6a7-40be-9b27-f0a3d0ba68e3.png)
+
+**If/elif/else**
+
+* Em alguns cenários queremos mais de dois desvios, para isso podemos utilizar a palavra reservada elif. O elif é composto por uma nova expressão lógica, que será testada e caso retorne verdadeiro o bloco de código do elif será executado. Não existe um número máximo de elifs que podemos utilizar, porém evite criar grandes estruturas condicionais, pois elas aumentam a complexidade do código. 
+
+![image](https://user-images.githubusercontent.com/88558377/190160466-83643951-136e-491a-81ca-5c77853026cc.png)
 
 
 
