@@ -35,7 +35,7 @@ Baixar e configurar a IDE
 Windows
 
 Como a maioria dos programas Windows, o Python possui um instalador que pode ser baixado acessando: http://www.python.org. Após executar a download, faça a instalação seguindo os passos descritos no tutorial: https://python.org.br/instalacao-windows/.
-![image](https://user-images.githubusercontent.com/88558377/190112293-e9c9548c-66ef-43b2-aa85-6f27afa7a75c.png)
+
 
 Baixar e configurar a IDE
 
