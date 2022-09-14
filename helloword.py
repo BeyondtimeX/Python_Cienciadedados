@@ -1,1 +1,0 @@
-print("Seja bem-vindo das descobertas do python para ciência de dados")
