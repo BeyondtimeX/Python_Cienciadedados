@@ -61,6 +61,60 @@ Para criar a nossa receita de bolo em Python, precisamos criar um arquivo com ex
 ![image](https://user-images.githubusercontent.com/88558377/190114494-4571ff89-6846-4d74-b717-fdc9bc46f15b.png)
 
 
+#### Tipos de dados
+
+Objetivo geral
+
+* Conhecer os tipos de dados em Python.
+
+O que são tipos?
+
+// Espaço alocado e operações
+
+Por que usamos tipos?
+
+Os tipos servem para definir as caracteristicas e comportamentos de um valor (objeto) para o interpretador. Por exemplo:
+
+* Com esse tipo eu sou capaz de realizar operações matemáticas.
+ Esse tipo para ser armazenado em memória irá consumir 24 bytes.
+
+Tipos em Python
+
+Os tipos built-in são:
+
+![image](https://user-images.githubusercontent.com/88558377/190117398-acba02c1-2c45-4c8b-8c2c-7112a162ddfb.png)
+
+Números inteiros
+
+* Números inteiros são representados pela classe int e possuem precisão ilimitada. São exemplos válidos de números inteiros:
+1, 10, 100, -1, -10, -100…99001823
+
+Números de ponto flutuante
+
+* Os números de ponto flutuante são usados para representar os números racionais e sua implementação é feita pela classe **float**. São exemplos válidos de números de ponto flutuante:
+
+* 1.5, -10.543, 0.76…999278.002
+
+Booleano
+
+É usado para representar verdadeiro ou falso, e é implementado pela classe **bool**. Em Python o tipo booleano é uma subclasse de int, uma vez que qualquer número diferente de 0 representa verdadeiro e 0 representa falso. São exemplos válidos de booleanos:
+
+**True** e *False**
+
+Strings
+
+* Strings ou cadeia de caracteres são usadas para representar valores alfanúmericos, em Python as strings são definidas utilizando a classe **str**. São exemplos válidos de string:
+
+* "Python", 'Python', """Python""", '''Python''', "p"
+
+**https://docs.python.org/3/library/stdtypes.html**
+
+
+
+
+
+
+
 
 
 
