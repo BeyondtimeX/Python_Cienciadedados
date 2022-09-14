@@ -1,5 +1,7 @@
 # Python para Ciencia de Dados
 
+#### Ambiente de Desenvolvimento e Primeiros Passos com Python
+
 Python nasceu em 1989 como um hobby, do programador Guido Van Rossum. A ideia inicial era dar continuidade a linguagem ABC, que era desenvolvida no Centro de Pesquisa Holandês (CWI).
 
 Python foi influenciada por ABC, que era uma linguagem pensada para iniciantes, devido a sua facilidade de aprendizagem e utilização.
