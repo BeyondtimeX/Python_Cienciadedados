@@ -422,6 +422,48 @@ Ela recebe 3 argumentos: stop (obrigatório), start (opcional) e step opcional.
 
 ![image](https://user-images.githubusercontent.com/88558377/190165038-552373ae-6918-46a0-ae5a-aad57f3c2e53.png)
 
+---------------------------------------
+##### String e fatiamento
+
+* A classe String do Python é famosa por ser rica em métodos e possuir uma interface muito fácil de trabalhar.
+Em algumas linguagens manipular sequências de caracteres não é um trabalho trivial, porém, em Python esse trabalho é muito simples.
+
+![image](https://user-images.githubusercontent.com/88558377/190167375-b365afd7-df81-4da6-9c85-547cf7a81ca5.png)
+
+**Interpolação de variáveis**
+
+* Em Python temos 3 formas de interpolar variáveis em strings, a primeira é usando o sinal %, a segunda é utilizando o método format e a última é utilizando f strings.
+A primeira forma não é atualmente recomendada e seu uso em Python 3 é raro, por esse motivo iremos focar nas 2 últimas.
+
+![image](https://user-images.githubusercontent.com/88558377/190168640-cd3b16f1-4987-4103-a164-171067bffe6f.png)
+
+![image](https://user-images.githubusercontent.com/88558377/190169200-4accd91a-362b-43a7-879a-d97300bdecc4.png)
+
+![image](https://user-images.githubusercontent.com/88558377/190169573-20fd3429-dccb-40d5-93ad-1cb849410e99.png)
+
+![image](https://user-images.githubusercontent.com/88558377/190169993-7c2b903a-c144-4c77-b471-f8f48022d5ae.png)
+
+**Fatiamento de string**
+
+* Fatiamento de strings é uma técnica utilizada para retornar substrings (partes da string original), informando inicio (start), fim (stop) e passo (step): [start: stop[, step]].
+
+![image](https://user-images.githubusercontent.com/88558377/190170730-241c9d25-7cfa-486e-bc74-3b84e2f351b7.png)
+
+**String multiplas linhas**
+
+* Strings de múltiplas linhas são definidas informando 3 aspas simples ou duplas durante a atribuição. Elas podem ocupar várias linhas do código, e todos os espaços em branco são incluídos na string final. 
+
+![image](https://user-images.githubusercontent.com/88558377/190171352-07446bf7-0532-491a-b4ab-1e301503a3ba.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
