@@ -377,6 +377,62 @@ op_comparacao + op_logico + op_comparacao… N …
 
 ![image](https://user-images.githubusercontent.com/88558377/190160466-83643951-136e-491a-81ca-5c77853026cc.png)
 
+**If aninhado**
+
+* Podemos criar estruturas condicionais aninhadas, para isso basta adicionar estruturas if/elif/else dentro do bloco de código de estruturas if/elif/else.
+
+![image](https://user-images.githubusercontent.com/88558377/190161292-78fef1a4-9509-4683-925c-4a66daaeab94.png)
+
+**If ternário**
+
+* O if ternário permite escrever uma condição em uma única linha. Ele é composto por três partes, a primeira parte é o retorno caso a expressão retorne verdadeiro, a segunda parte é a expressão lógica e a terceira parte é o retorno caso a expressão não seja atendida.
+
+![image](https://user-images.githubusercontent.com/88558377/190161762-9cc5aa6b-84a1-4cd9-bff7-fecf2fadbee3.png)
+
+---------------------------------------
+##### Estruturas de repetição
+
+**O que são estruturas de repetição?**
+
+* São estruturas utilizadas para repetir um trecho de código um determinado número de vezes. Esse número pode ser conhecido previamente ou determinado através de uma expressão lógica.
+
+![image](https://user-images.githubusercontent.com/88558377/190162414-6490aced-a9a7-416e-8ac5-f0b8ddc2314c.png)
+
+![image](https://user-images.githubusercontent.com/88558377/190162830-9e158e91-fb16-435a-b30c-d4d29dd4df45.png)
+
+**Comando for e a função built-in range**
+
+**Comando for**
+
+* O comando for é usado para percorrer um objeto iterável. Faz sentido usar for quando sabemos o número exato de vezes que nosso bloco de código deve ser executado, ou quando queremos percorrer um objeto iterável.
+
+![image](https://user-images.githubusercontent.com/88558377/190163783-055279a8-13dd-44a3-b599-821148610206.png)
+
+**Função range**
+
+* Range é uma função built-in do Python, ela é usada para produzir uma sequência de números inteiros a partir de um ínicio (inclusivo) para um fim (exclusivo). Se usarmos range(i, j) será produzido: 
+i, i+1, i+2, i+3, ..., j-1.
+Ela recebe 3 argumentos: stop (obrigatório), start (opcional) e step opcional.
+
+![image](https://user-images.githubusercontent.com/88558377/190164432-5e6968bc-2737-47f3-87e6-b6ffedd078ed.png)
+
+**Comando while**
+
+* O comando while é usado para repetir um bloco de código várias vezes. Faz sentido usar while quando não sabemos o número exato de vezes que nosso bloco de código deve ser executado.
+
+![image](https://user-images.githubusercontent.com/88558377/190165038-552373ae-6918-46a0-ae5a-aad57f3c2e53.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
