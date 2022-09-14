@@ -241,6 +241,90 @@ Lendo valores com a função input
 
 **https://docs.python.org/3/library/functions.html#print**
 
+---------------------------------------
+###### Operadores aritméticos
+
+* O que são?
+
+Os operadores aritméticos executam operações matemáticas, como adição, subtração com operandos.
+
+![image](https://user-images.githubusercontent.com/88558377/190137863-ef5afef6-2d13-4032-9a62-0023e0800558.png)
+
+---------------------------------------
+###### Precedência de operadores
+
+* Na matemática
+
+Na matemática existe uma regra que indica quais operações devem ser executadas primeiro. Isso é útil pois ao analisar uma expressão, a depender da ordem das operações o valor pode ser diferente:
+
+x = 10 - 5 * 2 
+x é igual a 10 ou 0?
+
+A definição indica a seguinte ordem como a correta:
+
+* Parêntesis
+* Expoêntes
+* Multiplicações e divisões (da esquerda para a direita)
+* Somas e subtrações (da esquerda para a direita)
+
+###### Exemplo:
+
+![image](https://user-images.githubusercontent.com/88558377/190138382-ebb148f3-d7e1-45bb-a6c5-f5bdcc150ddf.png)
+
+---------------------------------------
+######  Conhecendo os operadores de comparação
+
+O que são?
+
+São operadores utilizados para comparar dois valores.
+
+![image](https://user-images.githubusercontent.com/88558377/190139262-8b7e6947-002e-4324-813f-ee122c47e667.png) ![image](https://user-images.githubusercontent.com/88558377/190139303-bd1bb689-13d5-4a09-b9d6-dd2998755a1e.png)
+
+---------------------------------------
+###### Operadores de atribuição
+
+operadores utilizados para definir o valor inicial ou sobrescrever o valor de uma variável.
+
+![image](https://user-images.githubusercontent.com/88558377/190140543-47738c29-7311-4cb9-97db-929113e25780.png) ![image](https://user-images.githubusercontent.com/88558377/190140640-1917caeb-1db1-4416-baf5-252239196a7f.png)
+
+---------------------------------------
+###### Operadores Lógicos
+
+O que são?
+
+* São operadores utilizados em conjunto com os operadores de comparação, para montar uma expressão lógica. Quando um operador de comparação é utilizado, o resultado retornado é um booleano, dessa forma podemos combinar operadores de comparação com os operadores lógicos, exemplo:
+op_comparacao + op_logico + op_comparacao… N …
+
+![image](https://user-images.githubusercontent.com/88558377/190142028-a97270f7-81c8-4997-a69d-b843c0a13f7b.png)![image](https://user-images.githubusercontent.com/88558377/190142100-e057f444-80e5-4a6b-bbd0-68eb1246c640.png)
+
+---------------------------------------
+ ###### Operadores de identidade
+ 
+ **O que são?**
+ 
+ * São operadores utilizados para comparar se os dois objetos testados ocupam a mesma posição na memória.
+
+![image](https://user-images.githubusercontent.com/88558377/190142758-f00ce4aa-345b-4c31-80d6-6103126510fc.png)
+
+ ###### Operadores de Associação
+
+**O que são?**
+
+* São operadores utilizados para verificar se um objeto está presente em uma sequência.
+
+![image](https://user-images.githubusercontent.com/88558377/190143228-46775925-3c7d-4446-9597-743ef7c3bacf.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
