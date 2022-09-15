@@ -570,9 +570,52 @@ Imprima a quantidade de litros necessária para realizar a viagem, com três dí
 ![image](https://user-images.githubusercontent.com/88558377/190337157-ee444e0c-8456-4d8e-89bd-2a37e2538233.png)![image](https://user-images.githubusercontent.com/88558377/190337245-37c6008b-6e9f-4c86-b364-e9223e0f4e52.png)
 ![image](https://user-images.githubusercontent.com/88558377/190337297-b63c1b01-f719-4ca6-9cea-74a9337ea4a2.png)
 
+---------------------------------------
+##### Tuplas
 
+* Tuplas são estruturas de dados muito parecidas com as listas, a principal diferença é que tuplas são imutáveis enquanto listas são mutáveis. Podemos criar tuplas através da classe tuple, ou colocando valores separados por vírgula de parenteses!
 
+![image](https://user-images.githubusercontent.com/88558377/190338903-9dd1bf84-71db-4b6f-b380-8e94a277bdd8.png)
 
+**Acesso direto**
+
+* A tupla é uma sequência, portanto podemos acessar seus dados utilizando índices. Contamos o índice de determinada sequência a partir do zero.
+
+![image](https://user-images.githubusercontent.com/88558377/190339015-20044c4f-615c-4393-9850-279ea5144715.png)
+
+**Índices Negativos**
+
+* Sequências suportam indexação negativa. A contagem começa em -1.
+
+![image](https://user-images.githubusercontent.com/88558377/190339355-934d94cc-cf3c-459f-aaae-405182a0ae22.png)
+
+**Tuplas aninhadas**
+
+* Tuplas podem armazenar todos os tipos de objetos Python, portanto podemos ter tuplas que armazenam outras tuplas. Com isso podemos criar estruturas bidimensionais (tabelas), e acessar informando os índices de linha e coluna. 
+
+![image](https://user-images.githubusercontent.com/88558377/190339626-df7b750e-6976-4a00-a791-cf7c258a5784.png)
+
+**Fatiamento**
+
+* Além de acessar elementos diretamente, podemos extrair um conjunto de valores de uma sequência. Para isso basta passar o índice inicial e/ou final para acessar o conjunto. Podemos ainda informar quantas posições o cursor deve "pular" no acesso.
+
+![image](https://user-images.githubusercontent.com/88558377/190339830-7b26c954-8a33-4c3a-ae34-ed3f67c04efd.png)
+
+**Iterar tuplas**
+
+* A forma mais comum para percorrer os dados de uma tupla é utilizando o comando **for**.
+
+![image](https://user-images.githubusercontent.com/88558377/190340125-d3abdafa-a3b6-4839-af06-3ac317ca4b8f.png)
+
+**Função enumerate**
+
+* Às vezes é necessário saber qual o índice do objeto dentro do laço **for**. Para isso podemos usar a função **enumerate**.
+
+![image](https://user-images.githubusercontent.com/88558377/190340431-509e7e7b-45c0-4103-9c9c-29fa6c22af8c.png)
+
+**Métodos da classe tuple**
+
+![image](https://user-images.githubusercontent.com/88558377/190340831-daf06428-3f43-4ae9-b8e6-e130aecb5526.png)
 
 
 
