@@ -517,6 +517,66 @@ Imprima a quantidade de litros necessária para realizar a viagem, com três dí
 
 * [Análise de Dados com Python e Pandas](https://github.com/BeyondtimeX/An-lise_de_dados_com_Python_e_Pandas.git)
 
+---------------------------------------
+##### Crindo Listas
+
+* Listas em Python podem armazenar de maneira sequencial qualquer tipo de objeto. Podemos criar listas utilizando o construtor list, a função range ou colocando valores separados por vírgula dentro de colchetes. Listas são objetos mutáveis, portanto podemos alterar seus valores após a criação.
+
+![image](https://user-images.githubusercontent.com/88558377/190333388-73ce6ff0-f155-4a9d-afe5-aef189deb562.png)
+
+
+**Acesso direto**
+
+* A lista é uma sequência, portanto podemos acessar seus dados utilizando índices. Contamos o índice de determinada sequência a partir do zero![image]
+
+![image](https://user-images.githubusercontent.com/88558377/190333547-c9dec4a4-b077-420d-9d37-27bf277efad2.png)
+
+**Índices negativos**
+
+* Sequências suportam indexação negativa. A contagem começa em -1.
+
+![image](https://user-images.githubusercontent.com/88558377/190333801-757eb5fe-1f45-4151-acc4-fec6f101c9ba.png)
+
+**Listas aninhadas**
+
+* Listas podem armazenar todos os tipos de objetos Python, portanto podemos ter listas que armazenam outras listas. Com isso podemos criar estruturas bidimensionais (tabelas), e acessar informando os índices de linha e coluna. 
+
+![image](https://user-images.githubusercontent.com/88558377/190334160-70ef0b61-ec62-49ec-9072-7630fe7261de.png)
+
+**Fatiamento**
+
+* Além de acessar elementos diretamente, podemos extrair um conjunto de valores de uma sequência. Para isso basta passar o índice inicial e/ou final para acessar o conjunto. Podemos ainda informar quantas posições o cursor deve "pular" no acesso.
+
+![image](https://user-images.githubusercontent.com/88558377/190334404-a0841e62-0f12-4a63-b07f-d524d16dd4a0.png)
+
+**Iterar listas**
+
+ forma mais comum para percorrer os dados de uma lista é utilizando o comando **for**.
+
+![image](https://user-images.githubusercontent.com/88558377/190334669-3557b103-9408-425d-8760-1c512313cdbd.png)
+
+**Função Enumerante**
+
+![image](https://user-images.githubusercontent.com/88558377/190335172-da0e5748-44c3-464c-bf87-6751c5ffc0b4.png)
+
+**Compreensão de listas**
+
+* A compreensão de lista oferece uma sintaxe mais curta quando você deseja: criar uma nova lista com base nos valores de uma lista existente (filtro) ou gerar uma nova lista aplicando alguma modificação nos elementos de uma lista existente.
+
+![image](https://user-images.githubusercontent.com/88558377/190335708-069b502e-3321-43ef-994f-e9b7f24673bd.png)
+
+**Métodos da classe list**
+
+![image](https://user-images.githubusercontent.com/88558377/190337157-ee444e0c-8456-4d8e-89bd-2a37e2538233.png)![image](https://user-images.githubusercontent.com/88558377/190337245-37c6008b-6e9f-4c86-b364-e9223e0f4e52.png)
+![image](https://user-images.githubusercontent.com/88558377/190337297-b63c1b01-f719-4ca6-9cea-74a9337ea4a2.png)
+
+
+
+
+
+
+
+
 
 
 
