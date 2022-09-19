@@ -1,4 +1,4 @@
-# Python para Ciencia de Dados ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+# Python para Ciencia de Dados (EM CONSTRUÇÃO) ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### Ambiente de Desenvolvimento e Primeiros Passos com Python
 
