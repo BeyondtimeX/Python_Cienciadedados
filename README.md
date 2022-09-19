@@ -617,6 +617,41 @@ Imprima a quantidade de litros necessária para realizar a viagem, com três dí
 
 ![image](https://user-images.githubusercontent.com/88558377/190340831-daf06428-3f43-4ae9-b8e6-e130aecb5526.png)
 
+---------------------------------------
+##### Conjuntos
+
+**Criando Sets**
+
+* Um set é uma coleção que não possui objetos repetidos, usamos sets para representar conjuntos matemáticos ou eliminar itens duplicados de um iterável.
+
+![image](https://user-images.githubusercontent.com/88558377/190975497-353e2a6e-00d3-4d44-b084-949662192b64.png)
+
+**Acessando os dados**
+
+![image](https://user-images.githubusercontent.com/88558377/190975643-b611f6fb-d4f7-43ac-83c1-a65a15d77ed7.png)
+
+**Iterar conjuntos**
+
+* A forma mais comum para percorrer os dados de um conjunto é utilizando o comando for.
+
+![image](https://user-images.githubusercontent.com/88558377/190975811-7436a069-765e-416d-b60a-62451523d64d.png)
+
+**Função enumerate**
+
+* Às vezes é necessário saber qual o índice do objeto dentro do laço for. Para isso podemos usar a função enumerate.
+
+![image](https://user-images.githubusercontent.com/88558377/190975979-7e8fd7ef-459e-4b48-b1af-f83fce124123.png)
+
+**Métodos da classe set**
+
+![image](https://user-images.githubusercontent.com/88558377/190977235-94036b24-1389-48c7-9ccd-fe175993e9ae.png)
+![image](https://user-images.githubusercontent.com/88558377/190977327-09df7fb9-12fd-4276-95c2-690f057b8062.png)
+![image](https://user-images.githubusercontent.com/88558377/190977382-40c5f0c6-b45b-4ea6-9ca7-a48c97f0e6e3.png)
+![image](https://user-images.githubusercontent.com/88558377/190977468-6ffbacd0-db43-4479-8cdf-5eb3dc29239d.png)
+![image](https://user-images.githubusercontent.com/88558377/190977547-653cd398-c326-4cb3-8587-b435c150e93c.png)
+
+
+
 
 
 
